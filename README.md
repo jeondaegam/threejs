@@ -1,2 +1,2 @@
 # threejs
-three.js 해보잣
+lets begin threejs
